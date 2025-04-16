@@ -14,7 +14,7 @@ A powerful and flexible JSON transformation library for Go, inspired by node-jso
 ## Installation
 
 ```bash
-go get github.com/yourusername/go-json-transform
+go get github.com/keda-github/go-json-transform
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ package main
 
 import (
     "fmt"
-    "github.com/yourusername/go-json-transform/transform"
+    "github.com/keda-github/go-json-transform/transform"
 )
 
 func main() {
